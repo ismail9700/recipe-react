@@ -1,7 +1,7 @@
 A modernized version of the Forkify recipe application, rebuilt using React. This web app allows users to search for recipes, view detailed instructions, save favorites, and create custom recipes.
 
 ## Demo
-[**Try it Live**](https://forkify-r-i.netlify.app/)
+[**Try It Live**](https://forkify-r-i.netlify.app/)
 
 ## Screenshot
 ![App Screenshot](screenshots/forkify-screenshot.png)
